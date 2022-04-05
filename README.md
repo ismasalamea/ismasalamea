@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ismasalamea
 - 👀 I’m interested in programming in the world
-- 🌱 I’m currently learning NODE JS
+- ✨ I’m looking jobs in BACK END with NODE.js
+- 🌱 I’m currently learning REACT.js
 - 💞️ I’m looking to collaborate on private
 - 📫 How to reach me ...
 
